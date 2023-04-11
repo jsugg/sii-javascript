@@ -1,0 +1,36 @@
+{
+  "name": "@jsugg/sii",
+  "version": "1.0.0",
+  "description": "Interact with the Chilean SII service effortlessly",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsugg/sii-javascript.git"
+  },
+  "keywords": [
+    "SII",
+    "Servicio",
+    "de",
+    "impuestos",
+    "internos",
+    "Chilean",
+    "Internal",
+    "Revenue",
+    "Service",
+    "Chilean",
+    "IRS",
+    "SII",
+    "API",
+    "SII",
+    "Chile"
+  ],
+  "author": "Juan Pedro Sugg Gilbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsugg/sii-javascript/issues"
+  },
+  "homepage": "https://github.com/jsugg/sii-javascript#readme"
+}
